@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://chan-0912.github.io/ResultsCard/)
+- Live Site URL: [ResultsCard ](https://chan-0912.github.io/ResultsCard/)
 
 ### Built with
 
